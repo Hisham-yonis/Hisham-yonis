@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="[www.linkedin.com/in/hisham-yonis-bb6033148](https://www.linkedin.com/in/hisham-yonis-bb6033148/)" target="_blank">
+  <a href="www.linkedin.com/in/hisham-yonis-bb6033148" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="http://www.youtube.com/@hishamyonis9452" target="_blank">
